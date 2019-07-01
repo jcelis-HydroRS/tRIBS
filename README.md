@@ -1,2 +1,2 @@
 # tRIBS
-Physically-based distributed Hydrologic MOdel 
+Physically-based distributed Hydrologic Model 
